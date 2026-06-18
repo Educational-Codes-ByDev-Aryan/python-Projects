@@ -1,0 +1,19 @@
+# 2. ATM Simulator ⭐⭐⭐
+
+# Concepts Used
+
+# Variables
+# Input
+# Match Case
+# If-Else
+
+# Features
+
+# Check Balance
+# Deposit Money
+# Withdraw Money
+
+# Logic Challenge
+
+# Don't allow withdrawal if balance is insufficient.
+
