@@ -1,0 +1,19 @@
+3. Password Strength Checker
+
+Concepts Used:
+
+Strings
+String Methods
+If-Else
+
+Rules:
+
+Length must be ≥ 8
+Must contain a digit
+Must contain an uppercase letter
+
+Output:
+
+Weak Password
+Medium Password
+Strong Password
