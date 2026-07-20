@@ -1,5 +1,5 @@
 #  Convert Names to Uppercase
-names = ["aryan", "rahul", "priya", "neha"]
+names = ["sahil", "rahul", "priya", "neha"]
 
 new_list = list(map(lambda name: name.upper(), names))
 print(new_list)
